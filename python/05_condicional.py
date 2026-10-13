@@ -40,4 +40,5 @@ elif tipo_repuesto == "alas" and creditos >= precio_repuesto:
 elif tipo_repuesto == "escudos" and creditos >= precio_repuesto :
     print("puedes comprar el repuesto y te quedas con los créditos necesarios")
 else:
-    print("no puedes comprar el repuesto")  
+    print("tipo de repuesto no valido ")
+    

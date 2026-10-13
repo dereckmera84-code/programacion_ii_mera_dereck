@@ -1,1 +1,6 @@
 print("¡Hola, mundo!")
+print("STAR WARS")
+print("EPISODE I: LA AMENAZA FANTASMA")
+print("La federación de comercio ha establecido un bloqueo en el planeta Naboo.")
+print("Mientras el senado de la República debate la crisis, el canciller Supremo ha enviado a dos caballeros Jedi, maestros Qui-Gon Jinn y Obi-Wan Kenobi, para resolver el conflicto.")
+print("")
