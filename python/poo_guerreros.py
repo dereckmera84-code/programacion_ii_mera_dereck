@@ -4,4 +4,4 @@ class Guerrero:
         self.nombre = nombre
 
     def presentarse(self):
-        print("Mi poderoso nombre es:"self.nombre)
+        print("Mi poderoso nombre es:", self.nombre)
